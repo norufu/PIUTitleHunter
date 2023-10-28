@@ -1,0 +1,14 @@
+.active {
+  background-color: rgb(66, 113, 119) !important;
+}
+
+.categoryButton {
+  width: 90px;
+  height: 30px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  margin: 5px;
+  border-radius: 2px;
+}

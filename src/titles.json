@@ -1,0 +1,1214 @@
+[
+  {
+    "title": "LOVERS",
+    "unlock": "[CO-OP Step] 1000+ Plays",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "LOVERS",
+    "unlock": "[CO-OP Step] 100+ Plays",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "SCROOGE",
+    "unlock": "[PP 10,000] or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "CHEATER",
+    "unlock": "[Lv.27 over] SUPERB GAME or more",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "Perfect breaker",
+    "unlock": "[Gargoyle - FULL SONG - S21] 444,444 Point or less",
+    "colour": "col1",
+    "category": "Unique"
+  },
+  {
+    "title": "Human metronome",
+    "unlock": "[Yeo rae a S1] 180,000 Point or less",
+    "colour": "col1",
+    "category": "Unique"
+  },
+  {
+    "title": "NO SKILLS NO PUMP",
+    "unlock": "[Moonlight D21] SSS+ Grade or more",
+    "colour": "col2",
+    "category": "Unique"
+  },
+  {
+    "title": "PUMP IS A SENSE",
+    "unlock": "[Love is a Danger Zone D21] SSS+ Grade or more",
+    "colour": "col2",
+    "category": "Unique"
+  },
+  {
+    "title": "B.P.M FOLLOWER",
+    "unlock": "[Beethoven Virus D18] Perfect 927 / Great 1 / Miss 2 / Max Combo 747",
+    "colour": "col2",
+    "category": "Unique"
+  },
+  {
+    "title": "DOGE MAJOR STOCKHOLDER",
+    "unlock": "[Waltz of Doge D20] Max Combo of 888",
+    "colour": "col2",
+    "category": "Unique"
+  },
+  {
+    "title": "VVIP MEMBER",
+    "unlock": "[Play count] 10000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "VIP MEMBER",
+    "unlock": "[Play count] 5000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "DIAMOND MEMBER",
+    "unlock": "[Play count] 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "PLATINUM MEMBER",
+    "unlock": "[Play count] 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "GOLD MEMBER",
+    "unlock": "[Play count] 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "[XX] Double Boss breaker",
+    "unlock": "[1949 D28] ROUGH GAME or more",
+    "colour": "col1",
+    "category": "Boss"
+  },
+  {
+    "title": "[XX] Single Boss breaker",
+    "unlock": "[ERRORCODE: 0 S25] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[PRIME2] Double Boss breaker",
+    "unlock": "[Shub Sothoth D27] ROUGH GAME or more",
+    "colour": "col1",
+    "category": "Boss"
+  },
+  {
+    "title": "[PRIME2] Single Boss breaker",
+    "unlock": "[Shub Sothoth S25] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[PRIME] Double Boss breaker",
+    "unlock": "[Paradoxx D28] ROUGH GAME or more",
+    "colour": "col1",
+    "category": "Boss"
+  },
+  {
+    "title": "[PRIME] Single Boss breaker",
+    "unlock": "[Paradoxx S26] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[FIESTA2] Double Boss breaker",
+    "unlock": "[Ignis Fatuus D25] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[FIESTA2] Single Boss breaker",
+    "unlock": "[Ignis Fatuus S22] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[FIESTA EX] Double Boss breaker",
+    "unlock": "[Vacuum Cleaner D26] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[FIESTA EX] Single Boss breaker",
+    "unlock": "[Vacuum Cleaner S25] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[FIESTA] Double Boss breaker",
+    "unlock": "[Vacuum D25] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[FIESTA] Single Boss breaker",
+    "unlock": "[Vacuum S23] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[NXA] Double Boss breaker",
+    "unlock": "[Final Audition Ep. 2-X D24] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[NXA] Single Boss breaker",
+    "unlock": "[Final Audition Ep. 2-X S23] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[NX2] Double Boss breaker",
+    "unlock": "[Banya-P Guitar RemixD24] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[NX2] Single Boss breaker",
+    "unlock": "[Banya-P Guitar Remix S22] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[NX] Double Boss breaker",
+    "unlock": "[BEMERA D26] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[NX] Single Boss breaker",
+    "unlock": "[BEMERA S24] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[ZERO] Double Boss breaker",
+    "unlock": "[Love is a Danger Zone pt. 2 D24] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[ZERO] Single Boss breaker",
+    "unlock": "[Love is a Danger Zone pt. 2 S22] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[EXCEED2] Double Boss breaker",
+    "unlock": "[Canon D D23] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[EXCEED2] Single Boss breaker",
+    "unlock": "[Canon D S20] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[EXCEED] Double Boss breaker",
+    "unlock": "[Dignity D24] ROUGH GAME or more",
+    "colour": "col2",
+    "category": "Boss"
+  },
+  {
+    "title": "[EXCEED] Single Boss breaker",
+    "unlock": "[Dignity S21] ROUGH GAME or more",
+    "colour": "col3",
+    "category": "Boss"
+  },
+  {
+    "title": "[THE PREX3] Boss breaker",
+    "unlock": "[Bee S17] ROUGH GAME or more",
+    "colour": "col4",
+    "category": "Boss"
+  },
+  {
+    "title": "[THE REBIRTH] Boss breaker",
+    "unlock": "[Love is a Danger Zone S17] ROUGH GAME or more",
+    "colour": "col4",
+    "category": "Boss"
+  },
+  {
+    "title": "[EXTRA] Boss breaker",
+    "unlock": "[Radetzky Can Can D18] ROUGH GAME or more",
+    "colour": "col4",
+    "category": "Boss"
+  },
+  {
+    "title": "[Perfect Collection] Boss breaker",
+    "unlock": "[Slam S18] ROUGH GAME or more",
+    "colour": "col4",
+    "category": "Boss"
+  },
+  {
+    "title": "[The O.B.G SE] Boss breaker",
+    "unlock": "[Mr. Larpus S15] ROUGH GAME or more",
+    "colour": "col4",
+    "category": "Boss"
+  },
+  {
+    "title": "[The O.B.G] Boss breaker",
+    "unlock": "[Turkey March S12] ROUGH GAME or more",
+    "colour": "col4",
+    "category": "Boss"
+  },
+  {
+    "title": "[The 2nd] Boss breaker",
+    "unlock": "[Extravaganza S11] ROUGH GAME or more",
+    "colour": "col4",
+    "category": "Boss"
+  },
+  {
+    "title": "[The 1st] Boss breaker",
+    "unlock": "[Another Truth S6] ROUGH GAME or more",
+    "colour": "col4",
+    "category": "Boss"
+  },
+  {
+    "title": "PERFECT GAMER",
+    "unlock": "[PERFECT GAME] TOTAL 3000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "PERFECT GAMER",
+    "unlock": "[PERFECT GAME] TOTAL 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "PERFECT GAMER",
+    "unlock": "[PERFECT GAME] TOTAL 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "PERFECT GAMER",
+    "unlock": "[PERFECT GAME] TOTAL 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "ULTIMATE GAMER",
+    "unlock": "[ULTIMATE GAME] TOTAL 3000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "ULTIMATE GAMER",
+    "unlock": "[ULTIMATE GAME] TOTAL 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "ULTIMATE GAMER",
+    "unlock": "[ULTIMATE GAME] TOTAL 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "ULTIMATE GAMER",
+    "unlock": "[ULTIMATE GAME] TOTAL 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "EXTREME GAMER",
+    "unlock": "[EXTREME GAME] TOTAL 3000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "EXTREME GAMER",
+    "unlock": "[EXTREME GAME] TOTAL 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "EXTREME GAMER",
+    "unlock": "[EXTREME GAME] TOTAL 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "EXTREME GAMER",
+    "unlock": "[EXTREME GAME] TOTAL 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "SUPERB GAMER",
+    "unlock": "[SUPERB GAME] TOTAL 3000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "SUPERB GAMER",
+    "unlock": "[SUPERB GAME] TOTAL 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "SUPERB GAMER",
+    "unlock": "[SUPERB GAME] TOTAL 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "SUPERB GAMER",
+    "unlock": "[SUPERB GAME] TOTAL 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "MARVELOUS GAMER",
+    "unlock": "[MARVELOUS GAME] TOTAL 3000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "MARVELOUS GAMER",
+    "unlock": "[MARVELOUS GAME] TOTAL 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "MARVELOUS GAMER",
+    "unlock": "[MARVELOUS GAME] TOTAL 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "MARVELOUS GAMER",
+    "unlock": "[MARVELOUS GAME] TOTAL 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "TALENTED GAMER",
+    "unlock": "[TALENTED GAME] TOTAL 3000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "TALENTED GAMER",
+    "unlock": "[TALENTED GAME] TOTAL 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "TALENTED GAMER",
+    "unlock": "[TALENTED GAME] TOTAL 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "TALENTED GAMER",
+    "unlock": "[TALENTED GAME] TOTAL 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "FAIR GAMER",
+    "unlock": "[FAIR GAME] TOTAL 3000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "FAIR GAMER",
+    "unlock": "[FAIR GAME] TOTAL 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "FAIR GAMER",
+    "unlock": "[FAIR GAME] TOTAL 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "FAIR GAMER",
+    "unlock": "[FAIR GAME] TOTAL 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "ROUGH GAMER",
+    "unlock": "[ROUGH GAME] TOTAL 3000 or more",
+    "colour": "col1",
+    "category": "Timesink"
+  },
+  {
+    "title": "ROUGH GAMER",
+    "unlock": "[ROUGH GAME] TOTAL 1000 or more",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "ROUGH GAMER",
+    "unlock": "[ROUGH GAME] TOTAL 500 or more",
+    "colour": "col3",
+    "category": "Timesink"
+  },
+  {
+    "title": "ROUGH GAMER",
+    "unlock": "[ROUGH GAME] TOTAL 100 or more",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "[CO-OP] MASTER",
+    "unlock": "[CO-OP Rating] 390000 points or higher",
+    "colour": "col1",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] EXPERT",
+    "unlock": "[CO-OP Rating] 360000 points or higher",
+    "colour": "col1",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] ADVANCED",
+    "unlock": "[CO-OP Rating] 330000 points or higher",
+    "colour": "col1",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.10",
+    "unlock": "[CO-OP Rating] 300000 points or higher",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.9",
+    "unlock": "[CO-OP Rating] 270000 points or higher",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.8",
+    "unlock": "[CO-OP Rating] 240000 points or higher",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.7",
+    "unlock": "[CO-OP Rating] 210000 points or higher",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.6",
+    "unlock": "[CO-OP Rating] 180000 points or higher",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.5",
+    "unlock": "[CO-OP Rating] 150000 points or higher",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.4",
+    "unlock": "[CO-OP Rating] 120000 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.3",
+    "unlock": "[CO-OP Rating] 90000 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.2",
+    "unlock": "[CO-OP Rating] 60000 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "[CO-OP] Lv.1",
+    "unlock": "[CO-OP Rating] 30000 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "SPECIALIST",
+    "unlock": "Earn all skill titles",
+    "colour": "col1",
+    "category": "Unique"
+  },
+  {
+    "title": "[BRACKET] EXPERT",
+    "unlock": "Earn [BRACKET Lv.1~10]",
+    "colour": "col1",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.10",
+    "unlock": "[Phalanx D24] SSS Grade or more",
+    "colour": "col1",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.9",
+    "unlock": "[Scorpion King D23] SSS Grade or more",
+    "colour": "col1",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.8",
+    "unlock": "[Pop Sequence D23] SSS Grade or more",
+    "colour": "col2",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.7",
+    "unlock": "[What Happened D23] SSS Grade or more",
+    "colour": "col2",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.6",
+    "unlock": "[Meteo5cience D22] SSS Grade or more",
+    "colour": "col3",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.5",
+    "unlock": "[Phalanx S22] SSS Grade or more",
+    "colour": "col3",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.4",
+    "unlock": "[What Happened S21] SSS Grade or more",
+    "colour": "col3",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.3",
+    "unlock": "[Meteo5cience S21] SSS Grade or more",
+    "colour": "col4",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.2",
+    "unlock": "[Mad5cience S20] SSS Grade or more",
+    "colour": "col4",
+    "category": "Bracket"
+  },
+  {
+    "title": "[BRACKET] Lv.1",
+    "unlock": "[Allegro furioso D20] SSS Grade or more",
+    "colour": "col4",
+    "category": "Bracket"
+  },
+  {
+    "title": "[HALF] EXPERT",
+    "unlock": "Earn [HALF Lv.1~10]",
+    "colour": "col1",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.10",
+    "unlock": "[Imprinting D24] SSS Grade or more",
+    "colour": "col1",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.9",
+    "unlock": "[Love is a Danger Zone 2 Try To B.P.M D23] SSS Grade or more",
+    "colour": "col1",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.8",
+    "unlock": "[Redline D22] SSS Grade or more",
+    "colour": "col2",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.7",
+    "unlock": "[Witch Doctor #1 D21] SSS Grade or more",
+    "colour": "col2",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.6",
+    "unlock": "[Utsushiyo No Kaze D20] SSS Grade or more",
+    "colour": "col3",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.5",
+    "unlock": "[Phantom D19] SSS Grade or more",
+    "colour": "col3",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.4",
+    "unlock": "[Super Fantasy D18] SSS Grade or more",
+    "colour": "col3",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.3",
+    "unlock": "[Shub Niggurath D18] SSS Grade or more",
+    "colour": "col4",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.2",
+    "unlock": "[Butterfly D17] SSS Grade or more",
+    "colour": "col4",
+    "category": "Half"
+  },
+  {
+    "title": "[HALF] Lv.1",
+    "unlock": "[Mopemope D17] SSS Grade or more",
+    "colour": "col4",
+    "category": "Half"
+  },
+  {
+    "title": "[GIMMICK] EXPERT",
+    "unlock": "Earn [GIMMICK Lv.1~10]",
+    "colour": "col1",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.10",
+    "unlock": "[Everybody Got 2 Know S21] SSS Grade or more",
+    "colour": "col1",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.9",
+    "unlock": "[8 6 S20] SSS Grade or more",
+    "colour": "col1",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.8",
+    "unlock": "[Twist of Fate S19] SSS Grade or more",
+    "colour": "col2",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.7",
+    "unlock": "[Nakakapagpabagabag S19] SSS Grade or more",
+    "colour": "col2",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.6",
+    "unlock": "[Miss S' story S19] SSS Grade or more",
+    "colour": "col3",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.5",
+    "unlock": "[Rock the house - SHORT CUT - S18 ] SSS Grade or more",
+    "colour": "col3",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.4",
+    "unlock": "[Come to Me S17] SSS Grade or more",
+    "colour": "col3",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.3",
+    "unlock": "[Ugly Dee S17] SSS Grade or more",
+    "colour": "col4",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.2",
+    "unlock": "[8 6 S16] SSS Grade or more",
+    "colour": "col4",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[GIMMICK] Lv.1",
+    "unlock": "[Yeo rae a S13] SSS Grade or more",
+    "colour": "col4",
+    "category": "Gimmick"
+  },
+  {
+    "title": "[DRILL] EXPERT",
+    "unlock": "Earn [DRILL Lv.1~10]",
+    "colour": "col1",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.10",
+    "unlock": "[WI-EX-DOC-VA D24] SSS Grade or more",
+    "colour": "col1",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.9",
+    "unlock": "[Witch Doctor D23] SSS Grade or more",
+    "colour": "col1",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.8",
+    "unlock": "[Rock the house D22] SSS Grade or more",
+    "colour": "col2",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.7",
+    "unlock": "[Sorceress Elise S21] SSS Grade or more",
+    "colour": "col2",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.6",
+    "unlock": "[Overblow S20] SSS Grade or more",
+    "colour": "col3",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.5",
+    "unlock": "[Vacuum S19] SSS Grade or more",
+    "colour": "col3",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.4",
+    "unlock": "[Moonlight S18] SSS Grade or more",
+    "colour": "col3",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.3",
+    "unlock": "[Gun Rock S17] SSS Grade or more",
+    "colour": "col4",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.2",
+    "unlock": "[Vook S16] SSS Grade or more",
+    "colour": "col4",
+    "category": "Drill"
+  },
+  {
+    "title": "[DRILL] Lv.1",
+    "unlock": "[Hellfire S15] SSS Grade or more",
+    "colour": "col4",
+    "category": "Drill"
+  },
+  {
+    "title": "[RUN] EXPERT",
+    "unlock": "Earn [RUN Lv.1~10]",
+    "colour": "col1",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.10",
+    "unlock": "[Yog-Sothoth D24] SSS Grade or more",
+    "colour": "col1",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.9",
+    "unlock": "[Baroque Virus - FULL SONG - D23] SSS Grade or more",
+    "colour": "col1",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.8",
+    "unlock": "[Gargoyle - FULL SONG - D22] SSS Grade or more",
+    "colour": "col2",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.7",
+    "unlock": "[Sarabande D21] SSS Grade or more",
+    "colour": "col2",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.6",
+    "unlock": "[Bee D20] SSS Grade or more",
+    "colour": "col3",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.5",
+    "unlock": "[Napalm S19] SSS Grade or more",
+    "colour": "col3",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.4",
+    "unlock": "[Gothique Resonance S18] SSS Grade or more",
+    "colour": "col3",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.3",
+    "unlock": "[Pavane S17] SSS Grade or more",
+    "colour": "col4",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.2",
+    "unlock": "[Super Fantasy S16] SSS Grade or more",
+    "colour": "col4",
+    "category": "Run"
+  },
+  {
+    "title": "[RUN] Lv.1",
+    "unlock": "[Switronic S15] SSS Grade or more",
+    "colour": "col4",
+    "category": "Run"
+  },
+  {
+    "title": "[TWIST] EXPERT",
+    "unlock": "Earn [TWIST Lv.1~10]",
+    "colour": "col1",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.10",
+    "unlock": "[Bee D24] SSS Grade or more",
+    "colour": "col1",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.9",
+    "unlock": "[Love Is A Danger Zone(Cranky Mix) D23] SSS Grade or more",
+    "colour": "col1",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.8",
+    "unlock": "[Super Fantasy D22] SSS Grade or more",
+    "colour": "col2",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.7",
+    "unlock": "[Love is a Danger Zone D21] SSS Grade or more",
+    "colour": "col2",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.6",
+    "unlock": "[Witch Doctor #1 D20] SSS Grade or more",
+    "colour": "col3",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.5",
+    "unlock": "[U GOT 2 KNOW S19] SSS Grade or more",
+    "colour": "col3",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.4",
+    "unlock": "[Solitary 2 S18] SSS Grade or more",
+    "colour": "col3",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.3",
+    "unlock": "[U Got Me Rocking S17] SSS Grade or more",
+    "colour": "col4",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.2",
+    "unlock": "[Street show down S16] SSS Grade or more",
+    "colour": "col4",
+    "category": "Twist"
+  },
+  {
+    "title": "[TWIST] Lv.1",
+    "unlock": "[Scorpion King S15] SSS Grade or more",
+    "colour": "col4",
+    "category": "Twist"
+  },
+  {
+    "title": "THE MASTER",
+    "unlock": "[Lv.28 Rating] 1900 points or higher // Earn [EXPERT Lv.10]",
+    "colour": "col1",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.10",
+    "unlock": "[Lv.27 Rating] 7000 points or higher // Earn [EXPERT Lv.9]",
+    "colour": "col1",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.9",
+    "unlock": "[Lv.27 Rating] 3500 points or higher // Earn [EXPERT Lv.8]",
+    "colour": "col1",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.8",
+    "unlock": "[Lv.26 Rating] 26000 points or higher // Earn [EXPERT Lv.7]",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.7",
+    "unlock": "[Lv.26 Rating] 13000 points or higher // Earn [EXPERT Lv.6]",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.6",
+    "unlock": "[Lv.25 Rating] 40000 points or higher // Earn [EXPERT Lv.5]",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.5",
+    "unlock": "[Lv.25 Rating] 20000 points or higher // Earn [EXPERT Lv.4]",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.4",
+    "unlock": "[Lv.24 Rating] 60000 points or higher // Earn [EXPERT Lv.3]",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.3",
+    "unlock": "[Lv.24 Rating] 30000 points or higher // Earn [EXPERT Lv.2]",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.2",
+    "unlock": "[Lv.23 Rating] 80000 points or higher // Earn [EXPERT Lv.1]",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "EXPERT Lv.1",
+    "unlock": "[Lv.23 Rating] 40000 points or higher // Earn [ADVANCED Lv.10]",
+    "colour": "col2",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.10",
+    "unlock": "[Lv.22 Rating] 70000 points or higher // Earn [ADVANCED Lv.9]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.9",
+    "unlock": "[Lv.22 Rating] 52500 points or higher // Earn [ADVANCED Lv.8]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.8",
+    "unlock": "[Lv.22 Rating] 35000 points or higher // Earn [ADVANCED Lv.7]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.7",
+    "unlock": "[Lv.22 Rating] 17500 points or higher // Earn [ADVANCED Lv.6]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.6",
+    "unlock": "[Lv.21 Rating] 45000 points or higher // Earn [ADVANCED Lv.5]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.5",
+    "unlock": "[Lv.21 Rating] 30000 points or higher // Earn [ADVANCED Lv.4]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.4",
+    "unlock": "[Lv.21 Rating] 15000 points or higher // Earn [ADVANCED Lv.3]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.3",
+    "unlock": "[Lv.20 Rating] 39000 points or higher // Earn [ADVANCED Lv.2]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.2",
+    "unlock": "[Lv.20 Rating] 26000 points or higher // Earn [ADVANCED Lv.1]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "ADVANCED Lv.1",
+    "unlock": "[Lv.20 Rating] 13000 points or higher // Earn [INTERMEDIATE Lv.10]",
+    "colour": "col3",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.10",
+    "unlock": "[Lv.19 Rating] 11000 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.9",
+    "unlock": "[Lv.18 Rating] 9200 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.8",
+    "unlock": "[Lv.17 Rating] 7600 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.7",
+    "unlock": "[Lv.16 Rating] 6200 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.6",
+    "unlock": "[Lv.15 Rating] 5000 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.5",
+    "unlock": "[Lv.14 Rating] 4000 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.4",
+    "unlock": "[Lv.13 Rating] 3200 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.3",
+    "unlock": "[Lv.12 Rating] 2600 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.2",
+    "unlock": "[Lv.11 Rating] 2200 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "INTERMEDIATE Lv.1",
+    "unlock": "[Lv.10 Rating] 2000 points or higher",
+    "colour": "col4",
+    "category": "Grade"
+  },
+  {
+    "title": "A huge fan of SPHAM",
+    "unlock": "[SPHAM STEP] 500+ Plays",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "SPHAM FOLLOWER",
+    "unlock": "[SPHAM STEP] 100+ Plays",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "A huge fan of CONRAD",
+    "unlock": "[CONRAD STEP] 500+ Plays",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "CONRAD FOLLOWER",
+    "unlock": "[CONRAD STEP] 100+ Plays",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "A huge fan of DULKI",
+    "unlock": "[DULKI STEP] 500+ Plays",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "DULKI FOLLOWER",
+    "unlock": "[DULKI STEP] 100+ Plays",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "A huge fan of SUNNY",
+    "unlock": "[SUNNY STEP] 500+ Plays",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "SUNNY FOLLOWER",
+    "unlock": "[SUNNY STEP] 100+ Plays",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "A huge fan of FEFEMZ",
+    "unlock": "[FEFEMZ STEP] 500+ Plays",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "FEFEMZ FOLLOWER",
+    "unlock": "[FEFEMZ STEP] 100+ Plays",
+    "colour": "col4",
+    "category": "Timesink"
+  },
+  {
+    "title": "A huge fan of EXC",
+    "unlock": "[EXC STEP] 500+ Plays",
+    "colour": "col2",
+    "category": "Timesink"
+  },
+  {
+    "title": "EXC FOLLOWER",
+    "unlock": "[EXC STEP] 100+ Plays",
+    "colour": "col4",
+    "category": "Timesink"
+  }
+]

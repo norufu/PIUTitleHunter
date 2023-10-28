@@ -1,0 +1,14 @@
+.searchBar {
+  background: #465468;
+  color: #fff;
+  border: 2px solid black;
+  width: 30%;
+  height: 50px;
+  font-size: 30px;
+  margin: 15px;
+  padding: 10px;
+}
+
+.searchBar:focus {
+  outline: none;
+}
